@@ -5,6 +5,44 @@
   <Context>
     <Facet>
       <FacetItem>
+        <Label name="novels" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Novels</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="nonficiton" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Non-fiction</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="essays" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Essays</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="diaries" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Diaries</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="letters" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Letters</Title>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <Label name="about" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>About Orwell</Title>
+      </FacetItem>
+      <FacetItem>
         <Label name="biography" mode="FILTER">
           <Rewrite/>
         </Label>
@@ -15,20 +53,8 @@
           <Rewrite/>
         </Label>
         <Title>Clergyman's Daughter</Title>
+      </Facet>
       </FacetItem>
-      <FacetItem>
-        <Label name="diary" mode="FILTER">
-          <Rewrite/>
-        </Label>
-        <Title>Diary</Title>
-      </FacetItem>
-      <FacetItem>
-        <Label name="essays" mode="FILTER">
-          <Rewrite/>
-        </Label>
-        <Title>Essays</Title>
-      </FacetItem>
-    </Facet>
     <Facet>
       <FacetItem>
         <Label name="down_and_out" mode="FILTER">
@@ -51,13 +77,7 @@
     </Facet>
     <Facet>
       <FacetItem>
-        <Label name="novels" mode="FILTER">
-          <Rewrite/>
-        </Label>
-        <Title>Novels</Title>
-      </FacetItem>
-      <FacetItem>
-        <Label name="road_to_wigan_pier" mode="FILTER">
+        <Label name="wigan_pier" mode="FILTER">
           <Rewrite/>
         </Label>
         <Title>Road to Wigan Pier</Title>
@@ -89,10 +109,24 @@
         <Title>Nineteen eighty-four</Title>
       </FacetItem>
     </Facet>
+    <Facet>
+      <FacetItem>
+        <Label name="foundation" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Source: Orwell Foundation</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="wikipedia" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Source: Wikipedia</Title>
+      </FacetItem>
+    </Facet>
     <BackgroundLabels>
       <Label name="_cse_x7qn_fqpnts" mode="FILTER"/>
       <Label name="_cse_exclude_x7qn_fqpnts" mode="ELIMINATE"/>
     </BackgroundLabels>
   </Context>
-  <LookAndFeel/>
+  <LookAndFeel nonprofit="true"/>
 </CustomSearchEngine>
