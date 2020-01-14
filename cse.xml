@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine id="x7qn_fqpnts" creator="010657885947752667116" keywords="&quot;George Orwell&quot; 1984 &quot;Animal Farm&quot; &quot;Homage to Catalonia&quot;" language="en">
+  <Title>Orwell Search</Title>
+  <Description>Searches works by and about George Orwell</Description>
+  <Context>
+    <Facet>
+      <FacetItem>
+        <Label name="biography" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Biography</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="clergyman_s_daughter" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Clergyman's Daughter</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="diary" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Diary</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="essays" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Essays</Title>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <Label name="down_and_out" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Down and Out</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="keep_the_aspidistra_flying" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Keep the Aspidistra Flying</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="coming_up_for_air" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Coming up for Air</Title>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <Label name="novels" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Novels</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="road_to_wigan_pier" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Road to Wigan Pier</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="animal_farm" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Animal Farm</Title>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <Label name="burmese_days" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Burmese Days</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="homage_to_catalonia" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Homage to Catalonia</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="nineteen_eighty-four" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Nineteen eighty-four</Title>
+      </FacetItem>
+    </Facet>
+    <BackgroundLabels>
+      <Label name="_cse_x7qn_fqpnts" mode="FILTER"/>
+      <Label name="_cse_exclude_x7qn_fqpnts" mode="ELIMINATE"/>
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel/>
+</CustomSearchEngine>
