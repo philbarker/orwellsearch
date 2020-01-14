@@ -34,6 +34,12 @@
         </Label>
         <Title>Letters</Title>
       </FacetItem>
+      <FacetItem>
+        <Label name="poetry" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Poetry</Title>
+      </FacetItem>
     </Facet>
     <Facet>
       <FacetItem>
