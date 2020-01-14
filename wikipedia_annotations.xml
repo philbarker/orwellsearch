@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations>
+  <Annotation about="https://en.wikipedia.org/wiki/George_Orwell" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="wikipedia"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/A_Clergyman%27s_Daughter" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="clergyman_s_daughter"/>
+    <Label name="wikipedia"/>
+    <Label name="novels" />
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Keep_the_Aspidistra_Flying" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="keep_the_aspidistra_flying"/>
+    <Label name="wikipedia"/>
+    <Label name="novels"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Coming_Up_for_Air" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="coming_up_for_air"/>
+    <Label name="wikipedia"/>
+    <Label name="novels"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Animal_Farm" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="animal_farm"/>
+    <Label name="wikipedia"/>
+    <Label name="novels"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="nineteen_eighty-four"/>
+    <Label name="wikipedia"/>
+    <Label name="novels"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="down_and_out"/>
+    <Label name="wikipedia"/>
+    <Label name="nonficiton"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="wigan_pier"/>
+    <Label name="wikipedia"/>
+    <Label name="nonficiton"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Homage_to_Catalonia" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="homage_to_catalonia"/>
+    <Label name="wikipedia"/>
+    <Label name="nonficiton"/>
+  </Annotation>
+  <Annotation about="https://en.wikipedia.org/wiki/Burmese_Days" >
+    <Label name="_cse_x7qn_fqpnts"/>
+    <Label name="about"/>
+    <Label name="burmese_days"/>
+    <Label name="wikipedia"/>
+    <Label name="novels"/>
+  </Annotation>
+</Annotations>
