@@ -11,7 +11,7 @@
         <Title>Novels</Title>
       </FacetItem>
       <FacetItem>
-        <Label name="nonficiton" mode="FILTER">
+        <Label name="nonfiction" mode="FILTER">
           <Rewrite/>
         </Label>
         <Title>Non-fiction</Title>

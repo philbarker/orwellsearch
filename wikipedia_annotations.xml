@@ -45,21 +45,21 @@
     <Label name="about"/>
     <Label name="down_and_out"/>
     <Label name="wikipedia"/>
-    <Label name="nonficiton"/>
+    <Label name="nonfiction"/>
   </Annotation>
   <Annotation about="https://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier" >
     <Label name="_cse_x7qn_fqpnts"/>
     <Label name="about"/>
     <Label name="wigan_pier"/>
     <Label name="wikipedia"/>
-    <Label name="nonficiton"/>
+    <Label name="nonfiction"/>
   </Annotation>
   <Annotation about="https://en.wikipedia.org/wiki/Homage_to_Catalonia" >
     <Label name="_cse_x7qn_fqpnts"/>
     <Label name="about"/>
     <Label name="homage_to_catalonia"/>
     <Label name="wikipedia"/>
-    <Label name="nonficiton"/>
+    <Label name="nonfiction"/>
   </Annotation>
   <Annotation about="https://en.wikipedia.org/wiki/Burmese_Days" >
     <Label name="_cse_x7qn_fqpnts"/>
