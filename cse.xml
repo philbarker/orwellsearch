@@ -53,8 +53,8 @@
           <Rewrite/>
         </Label>
         <Title>Clergyman's Daughter</Title>
-      </Facet>
       </FacetItem>
+    </Facet>
     <Facet>
       <FacetItem>
         <Label name="down_and_out" mode="FILTER">
