@@ -128,6 +128,12 @@
         </Label>
         <Title>Source: Wikipedia</Title>
       </FacetItem>
+      <FacetItem>
+        <Label name="gutenberg_au" mode="FILTER">
+          <Rewrite/>
+        </Label>
+        <Title>Source: Gutenberg Australia</Title>
+      </FacetItem>
     </Facet>
     <BackgroundLabels>
       <Label name="_cse_x7qn_fqpnts" mode="FILTER"/>
